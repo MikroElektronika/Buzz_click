@@ -1,0 +1,5 @@
+module Click_BUZZ_config
+
+include Click_BUZZ_types
+
+end.

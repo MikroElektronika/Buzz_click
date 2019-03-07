@@ -1,0 +1,5 @@
+unit Click_BUZZ_config;
+
+uses Click_BUZZ_types;
+
+end.
